@@ -1,0 +1,66 @@
+[
+  {
+    "name": "John Smith",
+    "email": "john@example.com",
+    "class": "Yoga",
+    "time": "9:00 AM",
+    "duration": 1.5,
+    "fee": 10
+  },
+  {
+    "name": "Jane Doe",
+    "email": "jane@example.com",
+    "class": "Spin",
+    "time": "1:00 PM",
+    "duration": 1.5,
+    "fee": 10
+  },
+  {
+    "name": "Mary Jane",
+    "email": "mary@example.com",
+    "class": "Spin",
+    "time": "1:00 PM",
+    "duration": 1.5,
+    "fee": 10
+  },
+  {
+    "name": "Lacy Brown",
+    "email": "lacy@example.com",
+    "class": "Spin",
+    "time": "1:00 PM",
+    "duration": 1.0,
+    "fee": 10
+  },
+  {
+    "name": "Ronnie",
+    "email": "ronnie@example.com",
+    "class": "Zumba",
+    "time": "3:00 PM",
+    "duration": 1.0,
+    "fee": 10
+  },
+  {
+    "name": "Ronnie",
+    "email": "ronnie@example.com",
+    "class": "Pilates",
+    "time": "11:00 AM",
+    "duration": 1.0,
+    "fee": 10
+  },
+  {
+    "name": "anthony",
+    "email": "anthony@example.com",
+    "class": "Yoga",
+    "time": "9:00 AM",
+    "duration": 1.0,
+    "fee": 10
+  },
+  {
+    "name": "Anthony",
+    "email": "anthony@example.com",
+    "class": "Spin",
+    "time": "1:00 PM",
+    "duration": 1.0,
+    "fee": 10
+  }
+]
