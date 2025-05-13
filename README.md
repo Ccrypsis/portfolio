@@ -1,14 +1,19 @@
 # Final Project Anthony Robbins
 
-The system I will create is for Sunshine Fitness Studio, a small local gym that 
-offers group fitness classes such as yoga and zumba. The prototype will serve as a class 
-registration system, designed to help both customers and staff manage class sign-ups 
-more efficiently. Currently, Sunshine Fitness relies on in-person and phone-based 
-registration, which often results in overbooked classes and customer frustration. The new 
-system will allow users to register for classes and cancel their registration through a simple gui. 
-The application will collect input data and store it in a JSON file, 
-providing staff with an organized and up-to-date list of participants for each 
-class.
+The system I create is for a small local gym that offers group fitness classes such as 
+yoga and zumba. The prototype will serve as a class registration system, designed to help 
+both customers and staff manage class sign-ups more efficiently. Currently, Sunshine 
+Fitness relies on in-person and phone-based registration, which often results in overbooked 
+classes and customer frustration. The new system will allow users to register for classes
+and cancel their registration through a simple gui. The application will collect input data
+and store it in a JSON file, providing staff with an organized and up-to-date list of 
+participants for each class.
+
+## Demo Video
+```
+https://youtu.be/U-wOqDPxjfY
+```
+
 
 ## Install required libraries
 Ensure that you are in the main directory and 
@@ -17,13 +22,11 @@ run the following:
 _This must be done before you can run the application
 if you are not using the included venv._
 
-```shell
-$ pip install -r requirements.txt
-```
-or 
+
 ```shell
 $ pip install PILLOW
 $ pip install pytest
+$ pip install tkinter
 ```
 
 ## To run the program
