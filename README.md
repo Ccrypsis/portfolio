@@ -1,4 +1,4 @@
-# Final Project Anthony Robbins
+# Class Registration System by Anthony Robbins
 
 The system I create is for a small local gym that offers group fitness classes such as 
 yoga and zumba. The prototype will serve as a class registration system, designed to help 
